@@ -1,4 +1,4 @@
-Traveling
+Travel
 
 • Made an interesting website where the people can give their place for rent.
 
